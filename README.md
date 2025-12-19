@@ -1,0 +1,1 @@
+# my-bug-bounty-methodology
