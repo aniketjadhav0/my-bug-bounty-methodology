@@ -6,18 +6,6 @@
 > **Do not** use this information on systems without proper authorization.
 
 ---
-
-## 📘 About This Repository
-
-This repository documents the **step-by-step methodology** I follow while learning **bug bounty hunting**, mainly focused on:
-
-- Authentication testing  
-- Account takeover scenarios  
-- Access control issues  
-- Input validation and logic flaws  
-
-The main goal is to develop a **structured testing mindset** instead of running tools randomly.
-
 ---
 
 ## 1️⃣ Registration Function Testing
